@@ -1,3 +1,3 @@
 # demo-github-ci
 
-一个使用 github actions 进行部署和发布 npm 包的 demo
+A demo that uses github actions to deploy and publish npm packages
